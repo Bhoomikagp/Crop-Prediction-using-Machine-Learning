@@ -11,10 +11,10 @@
  The data used to train the model was collected from the Crop Prediction dataset. The dataset consists of 2200 samples of 22 different crops whose predictions are made using 7 features: nitrogen, phosphorus, potassium, and pH content of the soil, temperature, humidity and rainfall. The dataset is perfectly balanced, with each crop having 100 samples. The Rainfall in India datset is used to cross reference geolocations to corresponding rainfall values. The data was pre-processed to ensure consistency and cleaned to remove any missing values. The data includes information on various crop types, weather patterns, and soil types. The following data visualization was performed on the Crop Prediction dataset:
 
 Pairwise correlation plots for the features
-# Data_visual1.png
+Data_visual1.png
 
 Correlation Matrix
-# correlation_matrix.png
+correlation_matrix.png
 
 # Model
 
